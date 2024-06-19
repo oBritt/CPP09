@@ -1,6 +1,5 @@
 
 #include "RPN.hpp"
-#include <stdio.h>
 // +-/*
 
 void make_operation(std::stack<int>& s, int operation)
